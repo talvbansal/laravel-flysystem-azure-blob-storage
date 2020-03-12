@@ -22,12 +22,12 @@
     ],
     "require": {
         "php": "^7.1",
-        "illuminate/support": "~5.7|~5.8|^6.0",
+        "illuminate/support": "^5.8|^6.0|^7.0",
         "league/flysystem-azure-blob-storage": "^0.1.5"
     },
     "require-dev": {
         "larapack/dd": "^1.0",
-        "phpunit/phpunit": "^7.0"
+        "phpunit/phpunit": "^7.0|^8.5"
     },
     "autoload": {
         "psr-4": {
